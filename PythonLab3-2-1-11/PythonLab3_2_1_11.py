@@ -26,7 +26,7 @@ for letter in user_word:
         # Adds 'letter' value and the 'word_without_vowels' variable and assigns the result to the 'word_without_vowels' variable.
         word_without_vowels += letter
 # The 'word_without_vowels' variable is then output on one line
-print(word_without_vowels, "\n")
+print(word_without_vowels, "\n") 
 
 
 
